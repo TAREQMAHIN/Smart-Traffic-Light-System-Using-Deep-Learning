@@ -19,7 +19,11 @@ We will use Semantic segmentation, Histrogram of oriented gradient , thresh hold
 
 ![](Trafic%20Segmentation/Capture2.png)
 
-<img src="Traffic%20Segmentation/Capture2.png">
+<p align="center">
+ <img src="./Traffic%20Segmentation/Capture2.png" alt="Overview" width="75%" height="75%">
+ <br> Traffic segmentation.
+</p>
+
 
 
 Frameworks and Packages:
