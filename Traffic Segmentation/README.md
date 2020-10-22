@@ -17,3 +17,5 @@ We will use Semantic segmentation, Histrogram of oriented gradient , thresh hold
 
 > Edge Detection: Identify Sharp changes and discontinueties in brightness. 
 
+![](Traffic Segmentation/Capture2.JPG)
+
