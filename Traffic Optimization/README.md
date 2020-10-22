@@ -9,5 +9,5 @@ Optimization of traffic vehicles into differernt zones and building a traffic si
 The model uses to build the tarffic conjunction more accurate without any human interation. The Images that are feed as the input of the neural network will be classified into differnt zones. The data will be labeled or unlabeled data that can be use Single Shot Detector (SSD) model in deep learning. The bounding box techniques will be used to extarct the appropiate feature from the input data. The tarffic density calculation will be done by cognitive intelligence to build a traffic light optimization. The multi-threaded algorithm  adaptive tarffic light for better conjetion optimization. 
 
 
-
+![Capture](https://user-images.githubusercontent.com/49672241/96913378-2829be00-14c1-11eb-9163-ec63acd2c71e.png)
 
