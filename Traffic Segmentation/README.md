@@ -19,10 +19,7 @@ We will use Semantic segmentation, Histrogram of oriented gradient , thresh hold
 
 ![](Trafic%20Segmentation/Capture2.png)
 
-<p align="center">
- <img src=".main/Traffic%20Segmentation/Capture2.png" alt="Overview" width="75%" height="75%">
- <br> Traffic segmentation.
-</p>
+https://github.com/TAREQMAHIN/Smart-Traffic-Light-System-Using-Deep-Learning/issues/1#issue-727209450
 
 
 
