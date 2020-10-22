@@ -25,7 +25,7 @@ We will use Semantic segmentation, Histrogram of oriented gradient , thresh hold
 
 ###Frameworks and Packages:
 
-Python 3
-TensorFlow
-NumPy
-SciPy
+-Python 3
+-TensorFlow
+-NumPy
+-SciPy
