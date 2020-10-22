@@ -7,5 +7,6 @@ After importing all the libreries we will visualize the vehicle and non vehicle 
 
 It results by the following: 
 ![car](https://user-images.githubusercontent.com/49672241/96862339-f5f96b80-1482-11eb-8140-1a0d4fe50ca6.png)
+![no car](https://user-images.githubusercontent.com/49672241/96862508-30fb9f00-1483-11eb-98c3-d800e26daaf4.png)
 
 
