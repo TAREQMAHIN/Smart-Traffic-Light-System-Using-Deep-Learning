@@ -16,6 +16,9 @@ After importing all the libreries we will visualize the vehicle and non vehicle 
 The next part is Feature extraction. I have used the histogram of oriented gradient (HOG) for extarcting the  feature form the image set data. The code of the feature extraction is given bellow with its corresponding result .
 ![Capture2](https://user-images.githubusercontent.com/49672241/96863231-2c83b600-1484-11eb-97b0-fb860c4d7fee.PNG)
 
+![Feature1](https://user-images.githubusercontent.com/49672241/96863418-78cef600-1484-11eb-8243-d6ae55e9793e.png)
+![Feature2](https://user-images.githubusercontent.com/49672241/96863441-7ff60400-1484-11eb-9439-15da989cfe47.png)
+
 
 
 
