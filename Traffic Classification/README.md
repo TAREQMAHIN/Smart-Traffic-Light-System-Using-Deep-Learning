@@ -27,6 +27,9 @@ I decided to use Support Vector Machines because they have good compatibility wi
 ![Capture4](https://user-images.githubusercontent.com/49672241/96863876-2b9f5400-1485-11eb-942f-7bf154870359.PNG)
 
 
+![Capture1](https://user-images.githubusercontent.com/49672241/96866954-b2563000-1489-11eb-9ba9-beb8f1015a79.png)
+
+
 
 **The linear kernel took around 1.8 seconds to train with a test accuracy of 98.7%. Input image length is 64x64**
 ![Capture5](https://user-images.githubusercontent.com/49672241/96864147-9b154380-1485-11eb-9ad1-5f7e33e1c002.PNG)
