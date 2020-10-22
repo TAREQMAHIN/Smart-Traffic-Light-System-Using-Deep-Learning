@@ -5,4 +5,7 @@ In this phase of the project we will implement a supervised classification algor
 After importing all the libreries we will visualize the vehicle and non vehicle images by the following code:
 ![Capture](https://user-images.githubusercontent.com/49672241/96862156-ba5ea180-1482-11eb-80b1-7aa8265a62b5.PNG)
 
+It results by the following: 
+![car](https://user-images.githubusercontent.com/49672241/96862339-f5f96b80-1482-11eb-8140-1a0d4fe50ca6.png)
+
 
