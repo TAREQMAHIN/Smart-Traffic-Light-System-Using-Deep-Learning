@@ -10,3 +10,11 @@ After importing all the libreries we will visualize the vehicle and non vehicle 
 ![no car](https://user-images.githubusercontent.com/49672241/96862508-30fb9f00-1483-11eb-98c3-d800e26daaf4.png)
 
 
+
+
+
+The next part is Feature extraction. I have used the histogram of oriented gradient (HOG) for extarcting the  feature form the image set data. The code of the feature extraction is given bellow with its corresponding result .
+
+
+
+
