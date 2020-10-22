@@ -21,4 +21,28 @@ The pickled data is a dictionary with 4 key/value pairs:
 ![Capture1](https://user-images.githubusercontent.com/49672241/96913883-dcc3df80-14c1-11eb-8c2d-7511d34413d3.PNG)
 
 
+Now, I will illustrate the training dataset into the matplotlib librery and show thr random sample from the training set. By visualizing of the data we can have the following result. 
+
+![Capture2](https://user-images.githubusercontent.com/49672241/96914320-75f2f600-14c2-11eb-99e4-4479ec459223.PNG)
+
+
+The dataset also visualize the classes of each training and testing set. From this plot we notice that there's a strong imbalance among the classes. Indeed, some classes are relatively over-represented, while some others are much less common. However, we see that the data distribution is almost the same between training and testing set.
+
+![Capture3](https://user-images.githubusercontent.com/49672241/96914806-1812de00-14c3-11eb-967a-b90269d82b5d.PNG)
+
+***Now if we run the model in the CNN network we can easily get the acuracy of the testing model.The testing accuacy is about 95%. on the other hand the training set will classify into maximum 30 epoch and the accuracy predicted by the model is around 98%.***
+
+![Capture5](https://user-images.githubusercontent.com/49672241/96915313-ba32c600-14c3-11eb-8313-bd4fac983a36.PNG)
+![Capture4](https://user-images.githubusercontent.com/49672241/96915334-bdc64d00-14c3-11eb-9efd-515389733638.PNG)
+
+
+At last if the model is implemented by real time data it also shows a high level accuracy of around 80%.
+
+
+![Capture6](https://user-images.githubusercontent.com/49672241/96915875-6a083380-14c4-11eb-9132-6f69208d2ec7.PNG)
+
+So, by this algorithm we can easily optimize the signal configuration of high-level traffic zones to bring them to either medium-level or low-level traffic zones. 
+
+
+
 
