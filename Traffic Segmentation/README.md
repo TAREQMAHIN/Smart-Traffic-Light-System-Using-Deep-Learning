@@ -1,6 +1,8 @@
 In the 1st phase we have to devide traffic juction into three different phases:
 > High traffic zone
+
 > Medium traffic zone
+
 > Low traffic zone 
 
 We will also conqure the traffic vehicles into different segments like heavy vehicles,medium heavy vehicles and small vehicles. 
