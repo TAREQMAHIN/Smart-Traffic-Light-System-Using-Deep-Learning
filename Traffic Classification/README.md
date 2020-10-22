@@ -23,5 +23,9 @@ Now we are ragy for HOG Testing of the dataset.
 ![Capture3](https://user-images.githubusercontent.com/49672241/96863650-d105f800-1484-11eb-9548-3ab5522aa0e7.PNG)
 
 
+I decided to use Support Vector Machines because they have good compatibility with HOG. Now in SVM we have SVC(Support Vector Classifier) and here also we have a choice with various kernels and different C and gamma values.I trained my classifier on Linear kernel. The linear kernel took around 1.8 seconds to train with a test accuracy of 98.7%. I decided to use LinearSVC with default parameters solely because it was taking less time to run and it was more accurate.
+![Capture4](https://user-images.githubusercontent.com/49672241/96863876-2b9f5400-1485-11eb-942f-7bf154870359.PNG)
+
+
 
 
