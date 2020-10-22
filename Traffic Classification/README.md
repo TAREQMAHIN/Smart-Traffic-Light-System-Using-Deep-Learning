@@ -19,6 +19,9 @@ The next part is Feature extraction. I have used the histogram of oriented gradi
 ![Feature1](https://user-images.githubusercontent.com/49672241/96863418-78cef600-1484-11eb-8243-d6ae55e9793e.png)
 ![Feature2](https://user-images.githubusercontent.com/49672241/96863441-7ff60400-1484-11eb-9439-15da989cfe47.png)
 
+Now we are ragy for HOG Testing of the dataset.
+![Capture3](https://user-images.githubusercontent.com/49672241/96863650-d105f800-1484-11eb-9548-3ab5522aa0e7.PNG)
+
 
 
 
