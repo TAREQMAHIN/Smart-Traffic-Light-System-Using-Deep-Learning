@@ -19,3 +19,4 @@ We will use Semantic segmentation, Histrogram of oriented gradient , thresh hold
 
 ![](Trafic%20Segmentation/Capture2.png)
 
+<img src="Traffic%20Segmentation/Capture2.png">
