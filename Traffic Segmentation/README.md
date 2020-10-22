@@ -1,4 +1,4 @@
-In the 1st phase we have to devide traffic juction into three different phases:
+###In the 1st phase we have to devide traffic juction into three different phases:
 > High traffic zone
 
 > Medium traffic zone
@@ -26,7 +26,7 @@ We will use Semantic segmentation, Histrogram of oriented gradient , thresh hold
 
 
 
-Frameworks and Packages:
+###Frameworks and Packages:
 
 Python 3
 TensorFlow
