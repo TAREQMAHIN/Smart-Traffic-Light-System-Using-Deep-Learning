@@ -11,3 +11,14 @@ The model uses to build the tarffic conjunction more accurate without any human 
 
 ![Capture](https://user-images.githubusercontent.com/49672241/96913378-2829be00-14c1-11eb-9163-ec63acd2c71e.png)
 
+The pickled data is a dictionary with 4 key/value pairs:
+
+> 'features' is a 4D array containing raw pixel data of the traffic sign images, (num examples, width, height, channels).
+> 'labels' is a 2D array containing the label/class id of the traffic sign. The file signnames.csv contains id -> name mappings for each id.
+> 'sizes' is a list containing tuples, (width, height) representing the the original width and height the image.
+> 'coords' is a list containing tuples, (x1, y1, x2, y2) representing coordinates of a bounding box around the sign in the image. 
+
+![Capture1](https://user-images.githubusercontent.com/49672241/96913883-dcc3df80-14c1-11eb-8c2d-7511d34413d3.PNG)
+
+
+
