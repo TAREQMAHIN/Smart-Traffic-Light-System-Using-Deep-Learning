@@ -102,6 +102,10 @@ I decided to use Support Vector Machines because they have good compatibility wi
 **The linear kernel took around 1.8 seconds to train with a test accuracy of 98.7%. Input image length is 64x64**
 ![Capture5](https://user-images.githubusercontent.com/49672241/96864147-9b154380-1485-11eb-9ad1-5f7e33e1c002.PNG)
 
+We can also illustarte the output bellow: 
+
+![30512919-72a57046-9b02-11e7-8ca8-c3e4bd993497](https://user-images.githubusercontent.com/49672241/97027567-89609880-1578-11eb-9a0a-dd0ca9587ca6.gif)
+
 
 
 
