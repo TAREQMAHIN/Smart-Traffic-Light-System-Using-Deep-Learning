@@ -11,7 +11,25 @@
 ● Is there a way to optimize the traffic and distribute it through a different street?
 
 
-## The implementation of the project can be done in Three phases. All pashes are described bellow: 
+## The implementation of the project can be done in Three phases. All pashes are described bellow:
+
+# DATASET: 
+
+## GTI DATA:
+
+GTI Dataset: http://www.gti.ssr.upm.es/data/Vehicle_database.html
+Get Data: http://www.gti.ssr.upm.es/data/index.html
+
+The Image Processing Group is currently researching on the vision-based vehicle classification task. In order to evaluate methods, we have created a new Database of images that we have extracted from our video sequences (acquired with a forward looking camera mounted on a vehicle). The database comprises 3425 images of vehicle rears taken from different points of view, and 3900 images extracted from road sequences not containing vehicles. Images are selected to maximize the representativity of the vehicle class, which involves a naturally high variability. In our opinion one important feature affecting the appearance of the vehicle rear is the position of the vehicle relative to the camera. Therefore, the database separates images in four different regions according to the pose: middle/close range in front of the camera, middle/close range in the left, close/middle range in the right, and far range. In addition, the images are extracted in such a way that they do not perfectly fit the contour of the vehicle in order to make the classifier more robust to offsets in the hypothesis generation stage. Instead, some images contain the vehicle loosely (some background is also included in the image), while others only contain the vehicle partially. Several instances of a same vehicle are included with different bounding hypotheses. The images have 64x64 and are cropped from sequences of 360x256 pixels recorded in highways of Madrid, Brussels and Turin.
+
+## KITTI DATASET: 
+
+KITTI Dataset: http://www.cvlibs.net/datasets/kitti/
+Get Data: http://www.cvlibs.net/datasets/kitti/eval_3dobject.php
+
+Kitti contains a suite of vision tasks built using an autonomous driving platform. The full benchmark contains many tasks such as stereo, optical flow, visual odometry, etc. This dataset contains the object detection dataset, including the monocular images and bounding boxes. The dataset contains 7481 training images annotated with 3D bounding boxes. A full description of the annotations can be found in the readme of the object development kit readme on the Kitti homepage.
+
+
 
 # In the 1st phase we have to devide traffic juction into three different phases:
 
