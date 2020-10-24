@@ -68,7 +68,7 @@ We will use Semantic segmentation, Histrogram of oriented gradient , thresh hold
 
 # PHASE 2: 
 
-In this phase of the project I would like to implement a supervised classification algorithm for the purpose of seperating the trafffic vehicles. I would use the SUPPORT VECTOR MACHINE (SVM) for the classificication of the traffic vehicles image. I would also use the Histogram of augmented gradient(HOG) for feature extarcting from data.
+In this phase of the project I would like to implement a supervised classification algorithm for the purpose of seperating the trafffic vehicles. I would use the SUPPORT VECTOR MACHINE (SVM) for the classificication of the traffic vehicles image. I would also use the Histogram of Oriented Gradient(HOG) for feature extarcting from data.
 
 After importing all the libreries we will visualize the vehicle and non vehicle images by the following code:
 ![Capture](https://user-images.githubusercontent.com/49672241/96862156-ba5ea180-1482-11eb-80b1-7aa8265a62b5.PNG)
