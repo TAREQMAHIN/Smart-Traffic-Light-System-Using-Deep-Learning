@@ -147,12 +147,26 @@ The dataset also visualize the classes of each training and testing set. From th
 ![Capture4](https://user-images.githubusercontent.com/49672241/96915334-bdc64d00-14c3-11eb-9efd-515389733638.PNG)
 
 
-At last if the model is implemented by real time data it also shows a high level accuracy of around 80%.
-
-
-![Capture6](https://user-images.githubusercontent.com/49672241/96915875-6a083380-14c4-11eb-9132-6f69208d2ec7.PNG)
 
 So, by this algorithm we can easily optimize the signal configuration of high-level traffic zones to bring them to either medium-level or low-level traffic zones. 
+
+
+### FINAL OBSERVATION:
+We can have all the expected results as the project demands. By the integration of the project we
+can easily build a smart traffic management system. Proper deployment would give us the following
+outputs:
+➢ We can easily count the vehicles at the traffic junction on real time and also can separate the
+vehicles into different zones.
+
+➢ By the help of the real time data we can also monitor the traffic congestion time in a particular
+area at a particular time.
+
+➢We can also cluster the traffic vehicles and classify them to different junctions to avoid congestion
+on the road.
+
+➢ Finally by implementing the deep learning model in this project involves in traffic signal
+modification with the help of artificial intelligence to optimize traffic and distribute it through a
+different street. 
 
 
 
