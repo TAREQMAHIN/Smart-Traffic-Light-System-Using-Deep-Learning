@@ -155,6 +155,7 @@ So, by this algorithm we can easily optimize the signal configuration of high-le
 We can have all the expected results as the project demands. By the integration of the project we
 can easily build a smart traffic management system. Proper deployment would give us the following
 outputs:
+
 ➢ We can easily count the vehicles at the traffic junction on real time and also can separate the
 vehicles into different zones.
 
