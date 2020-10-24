@@ -31,7 +31,7 @@ Kitti contains a suite of vision tasks built using an autonomous driving platfor
 
 
 
-# In the 1st phase we have to devide traffic juction into three different phases:
+# In the 1st phase we have to divide traffic junction into three different phases:
 
 > High traffic zone
 
