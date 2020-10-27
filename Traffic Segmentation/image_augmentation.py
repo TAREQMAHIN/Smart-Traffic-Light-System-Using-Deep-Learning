@@ -1,7 +1,3 @@
-"""
-Fairly basic set of tools for data augmentation on images.
-"""
-
 import numpy as np
 import random
 import cv2
@@ -78,8 +74,8 @@ def debug_visualize_data_augmentation():
         plt.figure(1)
 
         x = batch_x[i]
-        y = np.uint8(batch_y[i][:, :, 1]) * 255  # cast from boolean to uint8 for visualization
-        y = np.stack([y, y, y], axis=2)          # turn to 3-channels for visualization
+        y = np.uint8(batch_y[i][:, :, 1]) * 255  
+        y = np.stack([y, y, y], axis=2)          
         xy = np.concatenate([x, y], axis=0)
 
         plt.imshow(xy)
@@ -87,8 +83,8 @@ def debug_visualize_data_augmentation():
         plt.figure(2)
 
         x_aug = batch_x_aug[i]
-        y_aug = np.uint8(batch_y_aug[i][:, :, 1]) * 255  # cast from boolean to uint8 for visualization
-        y_aug = np.stack([y_aug, y_aug, y_aug], axis=2)  # turn to 3-channels for visualization
+        y_aug = np.uint8(batch_y_aug[i][:, :, 1]) * 255  
+        y_aug = np.stack([y_aug, y_aug, y_aug], axis=2)  
         xy_aug = np.concatenate([x_aug, y_aug], axis=0)
 
         plt.imshow(xy_aug)
@@ -100,3 +96,5 @@ def debug_visualize_data_augmentation():
 if __name__ == '__main__':
 
     debug_visualize_data_augmentation()
+
+Output: .90 ms 
