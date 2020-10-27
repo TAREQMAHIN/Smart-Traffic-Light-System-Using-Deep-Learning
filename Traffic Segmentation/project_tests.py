@@ -154,4 +154,4 @@ def test_for_kitti_dataset(data_dir):
     assert testing_images_count == 290, 'Expected 290 testing images, found {} images.'.format(testing_images_count)
     
     
-accuract tested: 0.93
+accuracy tested: 0.93
